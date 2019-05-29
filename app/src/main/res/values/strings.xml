@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MultipleActivities</string>
+    <string name="activity_main_label">Parent Activity</string>
+    <string name="activity_child_label">Child Activity</string>
+    <string name="title_activity_child">ChildActivity</string>
+</resources>

@@ -12,7 +12,7 @@
         <activity
             android:name=".ChildActivity"
             android:label="@string/activity_child_label"
-            android:theme="@style/AppTheme.NoActionBar">
+            >
         </activity>
         <activity
             android:name=".ParentActivity"
